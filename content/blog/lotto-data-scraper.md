@@ -437,5 +437,19 @@ In this post, we have successfully extracted PCSO lottery winning combinations u
 
 We now have a clean and organized dataset of PCSO lottery winning combinations, ready for further analysis and visualization.
 
+## Reusable public dataset
+
+For readers who need a ready-to-inspect tabular snapshot, LottoLens PH publishes
+an independently compiled dataset with 13,457 historical result rows across nine
+PCSO games. Each row retains its public source name and URL, and the package also
+includes field definitions, normal draw schedules, a CC BY 4.0 license, and a
+versioned citation file.
+
+- [Coverage and data-quality methodology](https://lottolensph.com/research/pcso-results-data-coverage)
+- [Archived dataset and DOI](https://doi.org/10.6084/m9.figshare.33183167)
+
+The snapshot is a third-party compilation, not an official PCSO database. Check
+official PCSO notices for current results, schedule changes, and special draws.
+
 <!-- footnotes -->
 [^1]: Which is me, basically, saying to you to not play because this lottery is totally random based on the data extracted using this post.
