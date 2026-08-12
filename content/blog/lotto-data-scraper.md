@@ -446,7 +446,8 @@ includes field definitions, normal draw schedules, a CC BY 4.0 license, and a
 versioned citation file.
 
 - [Coverage and data-quality methodology](https://lottolensph.com/research/pcso-results-data-coverage)
-- [Archived dataset and DOI](https://doi.org/10.6084/m9.figshare.33183167)
+- [Public data package](https://remo65588-boop.github.io/lottolens-ph-public-data/)
+- [Fixed v2.0.1 release](https://github.com/remo65588-boop/lottolens-ph-public-data/releases/tag/v2.0.1)
 
 The snapshot is a third-party compilation, not an official PCSO database. Check
 official PCSO notices for current results, schedule changes, and special draws.
